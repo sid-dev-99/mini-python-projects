@@ -14,4 +14,4 @@ while(count<=count_limit):
         print(f"you have {count - 2} more attempt:")
     count += 1
 
-#the small mistake i'm making here is that not taking inside the while loop
+#the small mistake i'm making here is that not taking input inside the while loop
