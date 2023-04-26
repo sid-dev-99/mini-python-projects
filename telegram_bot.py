@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-
+# NOte:- This will not work directly, you need to fetch your tele-bot-api using telegram's "Botfather"
+# Your API should be in remo(dot)py file
 import telegram
 from telegram.ext import Updater, CommandHandler
 from PIL import Image, ImageDraw
