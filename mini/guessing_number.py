@@ -22,8 +22,3 @@ while(count<=count_limit):
     count += 1
     if(count==4) :
         print("oops! you tried, but no luck")
-
-<<<<<<< HEAD
-#the small mistake i'm making here is that not taking input inside the while loop
-=======
->>>>>>> d60f4e9 (guessing_number.py)
